@@ -1,0 +1,28 @@
+.sub-men {
+  background-size: cover;
+  background-attachment: fixed;
+  background: #f7631b;
+  font-size: 28px;
+  font-family: FontAwesome;
+  font-weight: 700;
+  padding: 10px;
+  text-align: center;
+}
+.sub-men a {
+  color: #fff;
+}
+.sub-men ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px;
+  opacity: 1px;
+  margin: 10px;
+  text-align: center;
+}
+.sub-men .menu .a {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+}
+
+/*# sourceMappingURL=subsect.css.map */

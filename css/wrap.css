@@ -1,0 +1,90 @@
+div.wrap{
+    text-align: justify-all;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: #ffff;
+    background-color: #ffff;
+    background-position: right;
+    background-size: cover;
+}
+
+.wrap h2{
+    color: #04091e;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.wrap h3{
+    color: #04091e;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.wrap p{
+    color: black;
+    text-align: center;
+    text-transform: none;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.wrap ul{
+    text-align: center;
+    padding: 10px;
+    list-style: circle;
+    list-style-type: circle;
+}
+
+.wrap ul li{
+    background: lightblue;
+    opacity: 1px;
+    display: inline-block;
+    padding: 15px;
+    text-align: center;
+    list-style: circle;
+    list-style-type: disc;
+    font-family: FontAwesome;
+    font-weight: 500;
+    font-size: 23px;
+} 
+
+div.mybackground{ 
+  text-align: justify-all;
+  color: #ffff; 
+  background-color: #ffff;
+  background-size: cover;
+  background-position: right;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+.learningimg{
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pinxueimg{
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lirenimg{
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
